@@ -99,12 +99,14 @@ body {
 	color: var(--color-negro);
 	text-transform: uppercase;
 	font-weight: 800;
+	margin-bottom: 5px;
 }
 
 #about h4 {
 	color: var(--color-numeros);
 	font-size: 65px;
 	font-weight: 600;
+	margin-bottom: 5px;
 }
 
 #numbers {
@@ -147,7 +149,8 @@ body {
 #speakers .card {
 	border: 1px solid  var(--border-speakers);
 	border-radius: 5%;
-	padding: 5% 
+	padding: 5%;
+	margin-top: 5px;
 }
 
 #speakers img {
